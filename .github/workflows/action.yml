@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule: [{cron: "0 * * * *"}]
-  push: {branches: ["master"]}
+  push: {branches: ["main"]}
 
 jobs:
   readme-update:
@@ -9,8 +9,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
 
+      - name: Setup git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull
+
+      - uses: actions/setup-python@v2
         with:
           persist-credentials: false
           fetch-depth: 0
@@ -23,13 +29,7 @@ jobs:
       - name: running script
         run: python auto_update_readme.py
 
-      - name: Commit files
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git commit -m "Add changes" -a
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+        run: |
+          git commit -am "Add changes" || echo "No changes to commit"
+          git push || echo "No changes to push"
