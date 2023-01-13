@@ -30,7 +30,6 @@ I'm [Edin](https://ed1ndev.vercel.app). I started programming at an early age wh
 <img src="assets/icons/html.svg" width="22px">
 <img src="assets/icons/css_dark.svg" width="22px">
 <img src="assets/icons/scss.svg" width="22px">
-<img src="assets/icons/stylus.svg" width="22px">
 <img src="assets/icons/pug.svg" width="22px">
 <img src="assets/icons/js.svg" width="22px">
 <img src="assets/icons/php.svg" width="22px">
@@ -42,7 +41,6 @@ I'm [Edin](https://ed1ndev.vercel.app). I started programming at an early age wh
 <br>
 <img src="assets/icons/archlinux.svg" width="22px">
 <img src="assets/icons/figma.svg" width="22px">
-<img src="assets/icons/editorconfig.svg" width="22px">
 <img src="assets/icons/nodejs.svg" width="22px">
 <img src="assets/icons/nginx.svg" width="22px">
 <img src="assets/icons/npm.svg" width="22px">
