@@ -1,54 +1,27 @@
-```coffeescript
->>> whoAmI()
+# 💫 About Me:
 
-    █████████████████████████████████████████████████████████████████
-    █░░░░░░░░░░░░░░█░░░░░░░░░░░░███░░░░░░░░███░░░░░░██████████░░░░░░█
-    █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀░░░░█░░▄▀▄▀░░███░░▄▀░░░░░░░░░░██░░▄▀░░█
-    █░░▄▀░░░░░░░░░░█░░▄▀░░░░▄▀▄▀░░█░░░░▄▀░░███░░▄▀▄▀▄▀▄▀▄▀░░██░░▄▀░░█
-    █░░▄▀░░█████████░░▄▀░░██░░▄▀░░███░░▄▀░░███░░▄▀░░░░░░▄▀░░██░░▄▀░░█
-    █░░▄▀░░░░░░░░░░█░░▄▀░░██░░▄▀░░███░░▄▀░░███░░▄▀░░██░░▄▀░░██░░▄▀░░█
-    █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░███░░▄▀░░███░░▄▀░░██░░▄▀░░██░░▄▀░░█
-    █░░▄▀░░░░░░░░░░█░░▄▀░░██░░▄▀░░███░░▄▀░░███░░▄▀░░██░░▄▀░░██░░▄▀░░█
-    █░░▄▀░░█████████░░▄▀░░██░░▄▀░░███░░▄▀░░███░░▄▀░░██░░▄▀░░░░░░▄▀░░█
-    █░░▄▀░░░░░░░░░░█░░▄▀░░░░▄▀▄▀░░█░░░░▄▀░░░░█░░▄▀░░██░░▄▀▄▀▄▀▄▀▄▀░░█
-    █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀░░░░█░░▄▀▄▀▄▀░░█░░▄▀░░██░░░░░░░░░░▄▀░░█
-    █░░░░░░░░░░░░░░█░░░░░░░░░░░░███░░░░░░░░░░█░░░░░░██████████░░░░░░█
-    █████████████████████████████████████████████████████████████████
-                                     
-    Full-Stack & Bot Developer
-```
+🔭 I’m currently working on React projects<br>💬 Ask me about anything
 
-# Hello, World!
+# 💻 Tech Stack:
 
-I'm [Edin](https://ed1ndev.vercel.app). I started programming at an early age when I was 13 years old. Over time, I have perfected my knowledge of many languages. The first language was [python](https://www.python.org/), which served me well for the back end.
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-# <!-- Small line break, looking better than <hr/> -->
+# 📊 GitHub Stats:
 
-> **Languages, Technologies & Tools I know, love & use**
+![](https://github-readme-stats.vercel.app/api?username=ed1ndev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ed1ndev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ed1ndev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div><!-- make img inline -->
-<img src="assets/icons/html.svg" width="22px">
-<img src="assets/icons/css_dark.svg" width="22px">
-<img src="assets/icons/scss.svg" width="22px">
-<img src="assets/icons/pug.svg" width="22px">
-<img src="assets/icons/js.svg" width="22px">
-<img src="assets/icons/php.svg" width="22px">
-<img src="assets/icons/python.svg" width="22px">
-<img src="assets/icons/sqlite.svg" width="22px">
-<img src="assets/icons/sql.svg" width="22px">
-<img src="assets/icons/shell.svg" width="22px">
-<img src="assets/icons/htaccess.svg" width="22px">
-<br>
-<img src="assets/icons/archlinux.svg" width="22px">
-<img src="assets/icons/figma.svg" width="22px">
-<img src="assets/icons/nodejs.svg" width="22px">
-<img src="assets/icons/nginx.svg" width="22px">
-<img src="assets/icons/npm.svg" width="22px">
-</div>
+### ✍️ Random Dev Quote
 
-#   
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
+---
 
-I have contributed to `27` repositories, opened `0` pull requests & `0` issues!
+[![](https://visitcount.itsvg.in/api?id=ed1ndev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 💰 You can help me by Donating
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ed1ndev)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
